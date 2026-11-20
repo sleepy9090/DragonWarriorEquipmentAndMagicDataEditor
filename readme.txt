@@ -2,7 +2,9 @@
 Coded by: Shawn M. Crawford [sleepy9090]
 February 8, 2018
 
--Requires .NET Framework 3.5
+
+
+-Requires .NET Framework 4.8
 
 DragonWarriorEquipmentAndMagicDataEditor 
 Program to edit weapon and armor stats and magic data in the NES game Dragon Warrior. 
