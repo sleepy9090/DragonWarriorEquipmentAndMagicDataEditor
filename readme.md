@@ -1,7 +1,5 @@
 ﻿DragonWarriorEquipmentAndMagicDataEditor <br/>
 Program to edit weapon and armor stats and magic data in the NES game Dragon Warrior. <br/>
-Coded by: Shawn M. Crawford [sleepy9090]<br/>
-February 8, 2018<br/>
 
 <img width="466" height="428" alt="image" src="https://github.com/user-attachments/assets/0b703151-7578-4d9f-b174-f661ffb93d46" /><br/>
 
@@ -10,9 +8,6 @@ February 8, 2018<br/>
 <img width="484" height="360" alt="image" src="https://github.com/user-attachments/assets/b54ace99-fe62-4ad3-8a5b-8334fd95eb19" /><br/>
 
 -Requires .NET Framework 4.8<br/>
-
-
-
 -Tested with headered Dragon Warrior (U) (PRG0) [!].nes ROM.<br/>
 -Tested with headered Dragon Warrior (U) (PRG1) [!].nes ROM.<br/>
 
